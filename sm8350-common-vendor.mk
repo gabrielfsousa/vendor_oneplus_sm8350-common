@@ -1342,6 +1342,7 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     qcnvitems \
+    WfdCommon \
     tcmclient \
     com.android.hotwordenrollment.common.util \
     com.qti.dpmframework \
